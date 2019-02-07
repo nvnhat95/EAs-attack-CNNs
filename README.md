@@ -8,3 +8,5 @@ This project includes 2 different types of attacking:
 This project takes into to account that values of pixels in the image must be intergers. The results are promising.
 
 For the use of attackings, please refer to notebook files
+
+Edit: As suggestion of our professor, there is works that also tried our approach about CMA-ES
