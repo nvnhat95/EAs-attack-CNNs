@@ -9,4 +9,4 @@ This project takes into to account that values of pixels in the image must be in
 
 For the use of attackings, please refer to notebook files
 
-Edit: As suggestion of our professor, there is works that also tried our approach about CMA-ES
+Edit: There are some works that tried to reduce the complexity of CMA-ES
